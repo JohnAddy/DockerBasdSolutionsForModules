@@ -1,2 +1,2 @@
 # DockerBasedSolutionsForModules
-The project aims at researching and implementing tools and technologies to enhance BYOD teaching. The  focus will be on automated testing of the SQL queries and dockerizing the Software Development Module and  Databases course.
+The aim of this repository is to research and implement tools and technologies to enhance BYOD teaching. It focuses on automated testing of SQL queries and dockerizing the Software Development Module and Databases course.
